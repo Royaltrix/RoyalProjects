@@ -1,0 +1,9 @@
+c:\users\franklyn\Source\Repos\CorrectionConsoleApp\CorrectionConsoleApp\bin\Debug\CorrectionConsoleApp.exe.config
+c:\users\franklyn\Source\Repos\CorrectionConsoleApp\CorrectionConsoleApp\bin\Debug\CorrectionConsoleApp.exe
+c:\users\franklyn\Source\Repos\CorrectionConsoleApp\CorrectionConsoleApp\bin\Debug\CorrectionConsoleApp.pdb
+c:\users\franklyn\Source\Repos\CorrectionConsoleApp\CorrectionConsoleApp\bin\Debug\DynamicSugar.dll
+c:\users\franklyn\Source\Repos\CorrectionConsoleApp\CorrectionConsoleApp\obj\Debug\CorrectionConsoleApp.csproj.CoreCompileInputs.cache
+c:\users\franklyn\Source\Repos\CorrectionConsoleApp\CorrectionConsoleApp\obj\Debug\CorrectionConsoleApp.csproj.CopyComplete
+c:\users\franklyn\Source\Repos\CorrectionConsoleApp\CorrectionConsoleApp\obj\Debug\CorrectionConsoleApp.exe
+c:\users\franklyn\Source\Repos\CorrectionConsoleApp\CorrectionConsoleApp\obj\Debug\CorrectionConsoleApp.pdb
+c:\users\franklyn\Source\Repos\CorrectionConsoleApp\CorrectionConsoleApp\obj\Debug\CorrectionConsoleApp.csprojResolveAssemblyReference.cache

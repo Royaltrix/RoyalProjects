@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorrectionConsoleApp", "CorrectionConsoleApp\CorrectionConsoleApp.csproj", "{A0B859D0-68B9-4C06-95D3-5DFB79B96F19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0B859D0-68B9-4C06-95D3-5DFB79B96F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B859D0-68B9-4C06-95D3-5DFB79B96F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B859D0-68B9-4C06-95D3-5DFB79B96F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B859D0-68B9-4C06-95D3-5DFB79B96F19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB5F2CF1-D737-4C21-9DE8-591B710A9677}
+	EndGlobalSection
+EndGlobal
